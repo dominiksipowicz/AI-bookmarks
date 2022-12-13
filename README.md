@@ -11,6 +11,7 @@ Resources, news, tools, and materials related to AI
 
 ## Tools
 - [OpenAI Playground](https://beta.openai.com/playground) - run, test and tweak prompts for all OpenAI models
+- [huggingface](huggingface.co) - It's like a GitHub but for ML and AI. Models replace code
 - [sharegpt.com](https://sharegpt.com/) - Extension for Chrome that allows ChatGPT to share conversations via easily shareable links
 - [https://gpttools.com/comparisontool](https://gpttools.com/comparisontool) - Compare prompts and settings for OpenAI models
 
@@ -23,7 +24,7 @@ Resources, news, tools, and materials related to AI
 - [lifearchitect.ai](https://lifearchitect.ai/) - AI related news run by [Dr Thompson](https://lifearchitect.ai/about-alan/)
 
 ## Video channels / materials 
-
+- [@DrAlanDThompson](https://www.youtube.com/@DrAlanDThompson) - AI, news, reports, models
 
 ## Twitter people
 - [Sam Altman](https://twitter.com/sama) - CEO and Founder of OpenAI
