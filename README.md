@@ -15,10 +15,12 @@ Resources, news, tools, and materials related to AI
 - [huggingface](huggingface.co) - It's like a GitHub but for ML and AI. Models replace code
 - [sharegpt.com](https://sharegpt.com/) - Extension for Chrome that allows ChatGPT to share conversations via easily shareable links
 - [https://gpttools.com/comparisontool](https://gpttools.com/comparisontool) - Compare prompts and settings for OpenAI models
+- [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
 - [replicate.com](https://replicate.com/explore) - playground for open source models (text-to-image, image-to-text, image-to-image, speach-to-text)
+- [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service (Free tier 100k inference API credits)
 
 ## Information websites (news, blogs, articles)
 - [GitHub Next](https://githubnext.com/) - you don't want to miss this one out
