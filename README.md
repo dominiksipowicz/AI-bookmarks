@@ -4,6 +4,7 @@ Resources, news, tools, and materials related to AI
 ## GitHub repos
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts directory
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API.
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - Chaining prompts, multi-model logic, "LLMs through composability"
 
 ## AI templates and starter kits
 - [vercel.ai](https://www.vercel.ai) - templates for building Artificial Intelligence (AI) applications (fullstack, front-end focus)
@@ -32,7 +33,7 @@ Resources, news, tools, and materials related to AI
 
 ## Twitter people
 - [Sam Altman](https://twitter.com/sama) - CEO and Founder of OpenAI
-
+- [Andrej Karpathy](https://twitter.com/karpathy) - ex-OpenAI, ex-Tesla AI Director
 
 ## Specific OpenAI direct playground links
 
