@@ -13,20 +13,22 @@ Resources, news, tools, and materials related to AI
 
 ## Tools
 - [OpenAI Playground](https://beta.openai.com/playground) - run, test and tweak prompts for all OpenAI models
-- [huggingface](huggingface.co) - It's like a GitHub but for ML and AI. Models replace code
+- [huggingface](https://huggingface.co/) - It's like a GitHub but for ML and AI. Models replace code
+- [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing 
 - [sharegpt.com](https://sharegpt.com/) - Extension for Chrome that allows ChatGPT to share conversations via easily shareable links
-- [https://gpttools.com/comparisontool](https://gpttools.com/comparisontool) - Compare prompts and settings for OpenAI models
+- [gpttools](https://gpttools.com/comparisontool) - Compare prompts and settings for OpenAI models
 - [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
 - [replicate.com](https://replicate.com/explore) - playground for open source models (text-to-image, image-to-text, image-to-image, speach-to-text)
 - [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service (Free tier 100k inference API credits)
+- [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing 
 
 ## Information websites (news, blogs, articles)
 - [GitHub Next](https://githubnext.com/) - you don't want to miss this one out
 - [lifearchitect.ai](https://lifearchitect.ai/) - AI related news run by [Dr Thompson](https://lifearchitect.ai/about-alan/)
-- [https://bleedingedge.ai/](bleedingedge.ai) - news aggregator 
+- [bleedingedge.ai](https://bleedingedge.ai/) - news aggregator 
 
 ## Video channels / materials 
 - [@DrAlanDThompson](https://www.youtube.com/@DrAlanDThompson) - AI, news, reports, models
@@ -34,6 +36,7 @@ Resources, news, tools, and materials related to AI
 ## Twitter people
 - [Sam Altman](https://twitter.com/sama) - CEO and Founder of OpenAI
 - [Andrej Karpathy](https://twitter.com/karpathy) - ex-OpenAI, ex-Tesla AI Director
+- [Logan.GPT](https://twitter.com/OfficialLoganK) - DevRel @ OpenAI
 
 ## Specific OpenAI direct playground links
 
