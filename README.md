@@ -2,6 +2,7 @@
 Resources, news, tools, and materials related to AI
 
 ## GitHub repos
+- [rileytomasek/openai-fetch](https://github.com/rileytomasek/openai-fetch) - OpenAI client powered by fetch, works on Vercel Edge, Workers, size ~5kb vs. openai-node ~180kb
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts directory
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - Chaining prompts, multi-model logic, "LLMs through composability"
