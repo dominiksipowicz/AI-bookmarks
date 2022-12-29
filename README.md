@@ -32,6 +32,7 @@ Resources, news, tools, and materials related to AI
 - [GitHub Next](https://githubnext.com/) - you don't want to miss this one out
 - [lifearchitect.ai](https://lifearchitect.ai/) - AI related news run by [Dr Thompson](https://lifearchitect.ai/about-alan/)
 - [bleedingedge.ai](https://bleedingedge.ai/) - news aggregator 
+- [artificialgenie.ai](https://artificialgenie.ai/) - AI newsletter
 
 ## Video channels / materials 
 - [@DrAlanDThompson](https://www.youtube.com/@DrAlanDThompson) - AI, news, reports, models
