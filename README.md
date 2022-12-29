@@ -19,6 +19,7 @@ Resources, news, tools, and materials related to AI
 - [gpttools](https://gpttools.com/comparisontool) - Compare prompts and settings for OpenAI models
 - [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service
 - [audo.ai](https://audo.ai/) - AI Powered Background Noise Removal
+- [Altered.Ai](https://www.altered.ai/) - allows you to record your voice and change its tone and accent.
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
