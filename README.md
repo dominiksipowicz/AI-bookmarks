@@ -5,6 +5,7 @@ Resources, news, tools, and materials related to AI
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts directory
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - Chaining prompts, multi-model logic, "LLMs through composability"
+- [vercel/examples chatbot template](https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt) - Chat bot template
 
 ## AI templates and starter kits
 - [vercel.ai](https://www.vercel.ai) - templates for building Artificial Intelligence (AI) applications (fullstack, front-end focus)
