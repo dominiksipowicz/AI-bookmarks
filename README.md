@@ -41,10 +41,14 @@ Resources, news, tools, and materials related to AI
 
 ## Video channels / materials 
 - [@DrAlanDThompson](https://www.youtube.com/@DrAlanDThompson) - AI, news, reports, models
+- [@peterdiamandis](https://www.youtube.com/@peterdiamandis) - AI, longevity, Singluarity
 
 ## Twitter people
 - [Sam Altman](https://twitter.com/sama) - CEO and Founder of OpenAI
 - [Andrej Karpathy](https://twitter.com/karpathy) - ex-OpenAI, ex-Tesla AI Director
+- [NVIDIA AI](https://twitter.com/NVIDIAAI) - NVIDIA AI enterprise Twitter account
+- [Jim Fan](https://twitter.com/DrJimFan) - AI content
+- [TheMoonMidas](https://twitter.com/TheMoonMidas) - AT tweet news + AI Newsletter @ArtificialGenie
 - [Logan.GPT](https://twitter.com/OfficialLoganK) - DevRel @ OpenAI
 
 ## Specific OpenAI direct playground links
