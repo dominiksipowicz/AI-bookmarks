@@ -7,6 +7,7 @@ Resources, news, tools, and materials related to AI
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - Chaining prompts, multi-model logic, "LLMs through composability"
 - [vercel/examples chatbot template](https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt) - Chat bot template
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - docs - Communicating with Artificial Intelligence
 
 ## AI templates and starter kits
 - [vercel.ai](https://www.vercel.ai) - templates for building Artificial Intelligence (AI) applications (fullstack, front-end focus)
@@ -27,14 +28,18 @@ Resources, news, tools, and materials related to AI
 - [Feather AI](https://www.featherai.co/) - summary for YouTube video on your email
 - [lexica.art](https://lexica.art/) - image prompt catalog
 - [promptbase.com](https://promptbase.com/) - Image and text prompt catalog, prompt marketplace
+- [supernormal](https://supernormal.com/) - AI That Writes Your Meeting Notes
+- [embed.trydyno](https://embed.trydyno.com/) - Embed prompt box for testing like code sandbox
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
 - [replicate.com](https://replicate.com/explore) - playground for open source models (text-to-image, image-to-text, image-to-image, speach-to-text)
 - [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service (Free tier 100k inference API credits)
-- [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing 
+- [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing
+- [embed.trydyno](https://embed.trydyno.com/) - Embed prompt box for testing like code sandbox
 
 ## Information websites (news, blogs, articles)
+- [learn prompting](https://learnprompting.org/) - A Free, Open Source Course on Communicating with Artificial Intelligence
 - [GitHub Next](https://githubnext.com/) - you don't want to miss this one out
 - [lifearchitect.ai](https://lifearchitect.ai/) - AI related news run by [Dr Thompson](https://lifearchitect.ai/about-alan/)
 - [bleedingedge.ai](https://bleedingedge.ai/) - news aggregator 
