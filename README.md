@@ -19,6 +19,7 @@ Resources, news, tools, and materials related to AI
 - [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing 
 - [sharegpt.com](https://sharegpt.com/) - Extension for Chrome that allows ChatGPT to share conversations via easily shareable links
 - [gpttools](https://gpttools.com/comparisontool) - Compare prompts and settings for OpenAI models
+- [dust.tt](https://dust.tt/) - prompt chaining tool (Prompt engineering)
 - [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service
 - [audo.ai](https://audo.ai/) - AI Powered Background Noise Removal
 - [Altered.Ai](https://www.altered.ai/) - allows you to record your voice and change its tone and accent
