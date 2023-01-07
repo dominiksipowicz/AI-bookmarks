@@ -33,6 +33,7 @@ Resources, news, tools, and materials related to AI
 - [supernormal](https://supernormal.com/) - AI That Writes Your Meeting Notes
 - [embed.trydyno](https://embed.trydyno.com/) - Embed prompt box for testing like code sandbox
 - [glasp](https://glasp.co/) - An AI-powered highlighter and note-taking tool for Chrome
+- [addcontext.xyz](https://addcontext.xyz/) - AI-powered chat based on given podcasts, YouTube channels
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
