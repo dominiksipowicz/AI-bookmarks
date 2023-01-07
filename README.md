@@ -14,6 +14,7 @@ Resources, news, tools, and materials related to AI
 - [vercel.ai](https://www.vercel.ai) - templates for building Artificial Intelligence (AI) applications (fullstack, front-end focus)
 - [text-to-color](https://text-to-color.vercel.app/) - very simple app that use OpenAI API to change test into color
 - [Henry Cavill AI Bot](henry-cavill-bot.vercel.app) - chat bot using OpenAI API
+- [Vercel AI Chat GPT-3 example](https://vercel.com/templates/next.js/ai-gpt3-chatbot) - Template for next.js, OpenAI simple Chat GPT-3 example
 
 ## Tools
 - [OpenAI Playground](https://beta.openai.com/playground) - run, test and tweak prompts for all OpenAI models
@@ -31,6 +32,7 @@ Resources, news, tools, and materials related to AI
 - [promptbase.com](https://promptbase.com/) - Image and text prompt catalog, prompt marketplace
 - [supernormal](https://supernormal.com/) - AI That Writes Your Meeting Notes
 - [embed.trydyno](https://embed.trydyno.com/) - Embed prompt box for testing like code sandbox
+- [glasp](https://glasp.co/) - An AI-powered highlighter and note-taking tool for Chrome
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
