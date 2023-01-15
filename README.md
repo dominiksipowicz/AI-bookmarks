@@ -17,6 +17,7 @@ Resources, news, tools, and materials related to AI
 - [Vercel AI Chat GPT-3 example](https://vercel.com/templates/next.js/ai-gpt3-chatbot) - Template for next.js, OpenAI simple Chat GPT-3 example
 
 ## Tools
+- [MidJourney Prompt Helper](https://prompt.noonshot.com/) - Prompt builder Wizard for MidJourney
 - [OpenAI Playground](https://beta.openai.com/playground) - run, test and tweak prompts for all OpenAI models
 - [huggingface](https://huggingface.co/) - It's like a GitHub but for ML and AI. Models replace code
 - [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing 
