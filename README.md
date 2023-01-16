@@ -9,6 +9,7 @@ Resources, news, tools, and materials related to AI
 - [vercel/examples chatbot template](https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt) - Chat bot template
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - docs - Communicating with Artificial Intelligence
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist
+- [nat/natbot](https://github.com/nat/natbot) - GitHub's CEO bot project to drive a browser
 
 ## AI templates and starter kits
 - [vercel.ai](https://www.vercel.ai) - templates for building Artificial Intelligence (AI) applications (fullstack, front-end focus)
