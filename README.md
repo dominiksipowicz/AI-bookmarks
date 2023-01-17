@@ -37,6 +37,7 @@ Resources, news, tools, and materials related to AI
 - [glasp](https://glasp.co/) - An AI-powered highlighter and note-taking tool for Chrome
 - [addcontext.xyz](https://addcontext.xyz/) - AI-powered chat based on given podcasts, YouTube channels
 - [OSS insight Eplorer](https://ossinsight.io/explore) - Query 5 billion GitHub data with no SQL
+- [supermeme.ai](https://www.supermeme.ai/) - text-to-meme
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
@@ -44,6 +45,7 @@ Resources, news, tools, and materials related to AI
 - [tiyaro.ai](https://console.tiyaro.ai/explore) - AI models as a service (Free tier 100k inference API credits)
 - [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing
 - [embed.trydyno](https://embed.trydyno.com/) - Embed prompt box for testing like code sandbox
+- [supermeme.ai](https://www.supermeme.ai/) - text-to-meme
 
 ## Information websites (news, blogs, articles)
 - [learn prompting](https://learnprompting.org/) - A Free, Open Source Course on Communicating with Artificial Intelligence
