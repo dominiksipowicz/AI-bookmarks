@@ -11,6 +11,14 @@ Resources, news, tools, and materials related to AI
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist
 - [nat/natbot](https://github.com/nat/natbot) - GitHub's CEO bot project to drive a browser
 
+## AI Art Prompt catalog
+- [prompt.noonshot](https://prompt.noonshot.com/) - Midjourney Prompt Wizard
+- [prompthero](https://prompthero.com/) - free prompts OpenJourney, Midjourney, DALL-E, Stable Diffusion
+- [mage.space examples](https://www.mage.space/explore) - Stable Diffusion and fine tuned models
+- [promptbase](https://promptbase.com/) - Paid Prompt Marketplace (lol?)
+- [prompthunt](https://www.prompthunt.com/) - prompt catalog with detailed settings
+
+
 ## AI templates and starter kits
 - [vercel.ai](https://www.vercel.ai) - templates for building Artificial Intelligence (AI) applications (fullstack, front-end focus)
 - [text-to-color](https://text-to-color.vercel.app/) - very simple app that use OpenAI API to change test into color
