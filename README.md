@@ -46,6 +46,7 @@ Resources, news, tools, and materials related to AI
 - [addcontext.xyz](https://addcontext.xyz/) - AI-powered chat based on given podcasts, YouTube channels
 - [OSS insight Eplorer](https://ossinsight.io/explore) - Query 5 billion GitHub data with no SQL
 - [supermeme.ai](https://www.supermeme.ai/) - text-to-meme
+- [skimit.ai](https://www.skimit.ai/) - Summarise content by sending email
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
@@ -61,6 +62,7 @@ Resources, news, tools, and materials related to AI
 - [lifearchitect.ai](https://lifearchitect.ai/) - AI related news run by [Dr Thompson](https://lifearchitect.ai/about-alan/)
 - [bleedingedge.ai](https://bleedingedge.ai/) - news aggregator 
 - [artificialgenie.ai](https://artificialgenie.ai/) - AI newsletter
+- [Whait But Why: The AI Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - lenghty article about AI revolutino
 
 ## Video channels / materials 
 - [@DrAlanDThompson](https://www.youtube.com/@DrAlanDThompson) - AI, news, reports, models
