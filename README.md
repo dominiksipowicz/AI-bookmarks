@@ -47,6 +47,8 @@ Resources, news, tools, and materials related to AI
 - [OSS insight Eplorer](https://ossinsight.io/explore) - Query 5 billion GitHub data with no SQL
 - [supermeme.ai](https://www.supermeme.ai/) - text-to-meme
 - [skimit.ai](https://www.skimit.ai/) - Summarise content by sending email
+- [Descript](https://www.descript.com/) - Vide editing, Podcast transcription, voice overdub
+
 
 ## Free services
 - [mage.space](https://www.mage.space/) - text-to-image, free, stable diffusion 2.1
