@@ -57,6 +57,7 @@ Resources, news, tools, and materials related to AI
 - [Wordtune](https://www.wordtune.com/) - Rewording, rewriting, writing
 - [embed.trydyno](https://embed.trydyno.com/) - Embed prompt box for testing like code sandbox
 - [supermeme.ai](https://www.supermeme.ai/) - text-to-meme
+- [HF Salesforce/BLIP2](https://huggingface.co/spaces/Salesforce/BLIP2) - image-to-text, image recognition (caption image)
 
 ## Information websites (news, blogs, articles)
 - [learn prompting](https://learnprompting.org/) - A Free, Open Source Course on Communicating with Artificial Intelligence
