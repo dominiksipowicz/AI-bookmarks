@@ -70,6 +70,7 @@ Resources, news, tools, and materials related to AI
 ## Video channels / materials 
 - [@DrAlanDThompson](https://www.youtube.com/@DrAlanDThompson) - AI, news, reports, models
 - [@peterdiamandis](https://www.youtube.com/@peterdiamandis) - AI, longevity, Singluarity
+- [Matt Wolfe](https://www.youtube.com/@mreflow) - AI, No-Code, Tech
 
 ## AI Twitter people
 - [Sam Altman](https://twitter.com/sama) - CEO and Founder of OpenAI
