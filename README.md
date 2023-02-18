@@ -81,6 +81,11 @@ Resources, news, tools, and materials related to AI
 - [Saboo_Shubham](https://twitter.com/Saboo_Shubham_) - talking about ML, NLP & Large Language Models
 - [Linus](https://twitter.com/LinusEkenstam) - AI content
 - [Riley Goodside](https://twitter.com/goodside) - Staff Prompt Engineer @Scale_AI
+- [Robert Scoble](https://twitter.com/Scobleizer) - AI/AR news
+- [Adam.GPT](https://twitter.com/TheRealAdamG) - GTM stuff @ OpenAI
+- [Matt Wolfe](https://twitter.com/mreflow) - AI, No Code, tech, and the creator economy
+- [Javi Lopez](https://twitter.com/javilopen) - AI prompts & AI newsletter
+- [Barsee](https://twitter.com/heyBarsee) - Daily tips on AI & AI Valley Founder
 
 ## Specific OpenAI direct playground links
 
