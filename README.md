@@ -21,9 +21,11 @@ Resources, news, tools, and materials related to AI
 
 ## AI templates and starter kits
 - [vercel.ai](https://www.vercel.ai) - templates for building Artificial Intelligence (AI) applications (fullstack, front-end focus)
-- [text-to-color](https://text-to-color.vercel.app/) - very simple app that use OpenAI API to change test into color
-- [Henry Cavill AI Bot](henry-cavill-bot.vercel.app) - chat bot using OpenAI API
 - [Vercel AI Chat GPT-3 example](https://vercel.com/templates/next.js/ai-gpt3-chatbot) - Template for next.js, OpenAI simple Chat GPT-3 example
+
+## AI app catalogs
+- [https://www.futuretools.io/](https://www.futuretools.io/)
+- [https://aitools.fyi/](https://www.futuretools.io/)
 
 ## Tools
 - [MidJourney Prompt Helper](https://prompt.noonshot.com/) - Prompt builder Wizard for MidJourney
@@ -88,8 +90,3 @@ Resources, news, tools, and materials related to AI
 - [Javi Lopez](https://twitter.com/javilopen) - AI prompts & AI newsletter
 - [Barsee](https://twitter.com/heyBarsee) - Daily tips on AI & AI Valley Founder
 
-## Specific OpenAI direct playground links
-
-> Direct links to prompts in OpenAI’s GPT-3 playground (requires prior login)
-
-- [Dr Thompson Leta](https://beta.openai.com/playground/p/zUf68zBlohJfvPL5c80p7fsq?model=davinci) - Old `davinci` model, [Leta](https://lifearchitect.ai/leta/) from The GPT-3 Leta video series
