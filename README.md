@@ -1,6 +1,8 @@
 # AI-bookmarks
 Resources, news, tools, and materials related to AI
 
+> check out this [🌟 AI reading list](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit) with (books, podcasts, articles and vidoes) devided into 3 categories: "must read, great and rest of great"
+
 ## GitHub repos
 - [rileytomasek/openai-fetch](https://github.com/rileytomasek/openai-fetch) - OpenAI client powered by fetch, works on Vercel Edge, Workers, size ~5kb vs. openai-node ~180kb
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts directory
@@ -9,7 +11,10 @@ Resources, news, tools, and materials related to AI
 - [vercel/examples chatbot template](https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt) - Chat bot template
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - docs - Communicating with Artificial Intelligence
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist
-- [nat/natbot](https://github.com/nat/natbot) - GitHub's CEO bot project to drive a browser
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Vercel Hassan twitter repo (ChatGPt APi, OpenAI, streaming)
+- [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Vercel Hassan restore photos repo (Replicate)
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - OpenAI cookbooks (how to's, examples, app, docs)
+
 
 ## AI Art Prompt catalog
 - [prompt.noonshot](https://prompt.noonshot.com/) - Midjourney Prompt Wizard
@@ -26,6 +31,7 @@ Resources, news, tools, and materials related to AI
 ## AI app catalogs
 - [https://www.futuretools.io/](https://www.futuretools.io/)
 - [https://aitools.fyi/](https://www.futuretools.io/)
+- [https://www.builtwithai.co/ai-demos](https://www.builtwithai.co/ai-demos)
 
 ## Tools
 - [MidJourney Prompt Helper](https://prompt.noonshot.com/) - Prompt builder Wizard for MidJourney
@@ -62,6 +68,7 @@ Resources, news, tools, and materials related to AI
 - [HF Salesforce/BLIP2](https://huggingface.co/spaces/Salesforce/BLIP2) - image-to-text, image recognition (caption image)
 
 ## Information websites (news, blogs, articles)
+- [AI reading list](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit) - 🌟 AI reading list
 - [learn prompting](https://learnprompting.org/) - A Free, Open Source Course on Communicating with Artificial Intelligence
 - [GitHub Next](https://githubnext.com/) - you don't want to miss this one out
 - [lifearchitect.ai](https://lifearchitect.ai/) - AI related news run by [Dr Thompson](https://lifearchitect.ai/about-alan/)
@@ -73,8 +80,12 @@ Resources, news, tools, and materials related to AI
 - [@DrAlanDThompson](https://www.youtube.com/@DrAlanDThompson) - AI, news, reports, models
 - [@peterdiamandis](https://www.youtube.com/@peterdiamandis) - AI, longevity, Singluarity
 - [Matt Wolfe](https://www.youtube.com/@mreflow) - AI, No-Code, Tech
+- [David Shapiro](https://www.youtube.com/@DavidShapiroAutomator) - AI, Project Raven, Author
 
 ## AI Twitter people
+
+> I created special [AI Twitter list](https://twitter.com/i/lists/1630708952760459265?s=20).
+
 - [Sam Altman](https://twitter.com/sama) - CEO and Founder of OpenAI
 - [Andrej Karpathy](https://twitter.com/karpathy) - ex-OpenAI, ex-Tesla AI Director
 - [NVIDIA AI](https://twitter.com/NVIDIAAI) - NVIDIA AI enterprise Twitter account
