@@ -4,6 +4,7 @@ Resources, news, tools, and materials related to AI
 > check out this [🌟 AI reading list](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit) with (books, podcasts, articles and vidoes) devided into 3 categories: "must read, great and rest of great"
 
 ## GitHub repos
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Propbably number #1 ChatGPT UI aternative, BYOK
 - [rileytomasek/openai-fetch](https://github.com/rileytomasek/openai-fetch) - OpenAI client powered by fetch, works on Vercel Edge, Workers, size ~5kb vs. openai-node ~180kb
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts directory
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API.
